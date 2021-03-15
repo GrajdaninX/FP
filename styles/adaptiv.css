@@ -1,0 +1,89 @@
+@media screen and (max-width: 576px) {
+	/*GLOBAL*/
+	.container{
+		width: 100%;
+	}
+	.section-first{
+		background-position: center; 
+	}
+	.btn {
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+	/*FIRST*/
+	.ferst-title{
+		text-align: center;
+		font-size: 30px;
+	}
+	.ferst-subtitle{
+		font-size: 16px;
+		padding: 0 20px;
+		margin-bottom: 25px;
+	}
+	/*ABOUT*/
+	.about-item {
+		width: 100%;
+		margin-bottom: 15px;
+		padding-top: 15px;
+	}
+	.section{
+		padding: 25px 0;
+	}
+
+	/*OUR SERVICE*/
+	.services-item {
+    	width: 100%; 
+        padding-top: 20px;
+    	padding-bottom: 20px; 
+    	margin-top: 10px;  
+	}
+	.services {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.section_color {
+        padding-bottom: 20px;
+    }
+    .btn-services {
+    	padding: 6px 3px;
+    	font-size: 15px;
+    	margin-top: 20px;
+    }
+    .header-section{
+ 		text-align: center;
+		padding-bottom: 30px;
+	}
+
+		/*LATEST WORKS*/
+
+	.btn-works{
+ 		text-align: center;
+ 		margin-top: 10px;
+    	margin-bottom: 15px;
+    	padding: 10px 10px;
+    	margin: 2 5px;
+    	font-size: 17px;
+ 	}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+.works-item {
+    width: 100%;
+}
+.section {
+    padding: 10px 0;
+}
+/*_______TEAM______*/
+.services-people-team{
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+}
+
